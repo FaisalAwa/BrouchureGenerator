@@ -1,7 +1,6 @@
-
 # A full business solution
 
-
+![voyage](https://github.com/user-attachments/assets/5056f54e-dee1-4fd4-9fca-3dc2e6b234fa)
 
 ### BUSINESS CHALLENGE:
 
@@ -11,6 +10,7 @@ We will be provided a company name and their primary website.
 
 
 ## Environment Variables
+
 
 To run this project, you will need to add the following environment variables to your .env file
 
